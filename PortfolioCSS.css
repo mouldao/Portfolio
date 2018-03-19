@@ -1,0 +1,39 @@
+a{
+  color: Purple;
+    text-decoration: none
+}
+.PortImage {
+  width: 500px;
+} 
+.About{
+  background-color: #ff0000ad;
+  margin:0px;
+  padding:1px 0 ;
+  width:100%;
+}
+.Portfolio{
+  background-color: rgb(236, 115, 115);
+  padding: 1px 0px
+}
+/* Style the header */
+.header {
+  padding: 0px 0px ;
+  background: red;
+  color: red;
+  z-index: 1000;
+  text-align:right;
+  margin: 0;
+  width: 97.65% !important ;
+    position: fixed;
+  top: 0;
+  width: 100%;
+
+}
+
+/* Page content */
+.content {
+  padding-top: 40px;
+
+}
+
+
